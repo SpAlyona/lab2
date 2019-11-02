@@ -1,0 +1,2 @@
+include ':app', ':LifecycleActivity', ':MultiActivity', ':IntentFilter', ':ToastApp', ':NotificationApp', ':dialog'
+rootProject.name='My Application'
